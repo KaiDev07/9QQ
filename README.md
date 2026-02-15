@@ -24,8 +24,8 @@
 1. **Клонируйте репозиторий:**
 
     ```bash
-    git clone [https://github.com/ВАШ_НИКНЕЙМ/ToguzZero.git](https://github.com/ВАШ_НИКНЕЙМ/ToguzZero.git)
-    cd ToguzZero
+    git clone [https://github.com/KaiDev07/9QQ.git](https://github.com/KaiDev07/9QQ.git)
+    cd 9QQ
     ```
 
 2. **Установите зависимости:**
